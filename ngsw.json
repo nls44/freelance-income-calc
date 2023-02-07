@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1675811347858,
+  "index": "/freelance-income-calc/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/freelance-income-calc/favicon.ico",
+        "/freelance-income-calc/index.html",
+        "/freelance-income-calc/main.435fdb826336246f.js",
+        "/freelance-income-calc/manifest.webmanifest",
+        "/freelance-income-calc/polyfills.ea8b59974edbc8a6.js",
+        "/freelance-income-calc/runtime.9ebcf9c31795084b.js",
+        "/freelance-income-calc/styles.8e3698cd3bb16641.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/freelance-income-calc/assets/icons/icon-128x128.png",
+        "/freelance-income-calc/assets/icons/icon-144x144.png",
+        "/freelance-income-calc/assets/icons/icon-152x152.png",
+        "/freelance-income-calc/assets/icons/icon-192x192.png",
+        "/freelance-income-calc/assets/icons/icon-384x384.png",
+        "/freelance-income-calc/assets/icons/icon-512x512.png",
+        "/freelance-income-calc/assets/icons/icon-72x72.png",
+        "/freelance-income-calc/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/freelance-income-calc/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/freelance-income-calc/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/freelance-income-calc/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/freelance-income-calc/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/freelance-income-calc/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/freelance-income-calc/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/freelance-income-calc/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/freelance-income-calc/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/freelance-income-calc/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/freelance-income-calc/index.html": "bf9213e7fe73012a4a23e330fa316786eb42b8f2",
+    "/freelance-income-calc/main.435fdb826336246f.js": "fa2c9812ce8808b8daefe0c21ae12520972f6005",
+    "/freelance-income-calc/manifest.webmanifest": "9b661f09b2a8391d72c045f033f6bab6ffac36a4",
+    "/freelance-income-calc/polyfills.ea8b59974edbc8a6.js": "b61300172f52c2d249abc8eeda9152d52ef35860",
+    "/freelance-income-calc/runtime.9ebcf9c31795084b.js": "a5abc1284bfef002f62a44e300d97735871e40b6",
+    "/freelance-income-calc/styles.8e3698cd3bb16641.css": "9309dbf74f76026676f5d6677f6ed449907c80bf"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
