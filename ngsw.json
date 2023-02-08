@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675811927883,
+  "timestamp": 1675876973870,
   "index": "/freelance-income-calc/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/freelance-income-calc/favicon.ico",
         "/freelance-income-calc/index.html",
-        "/freelance-income-calc/main.1de5c94b0dde888d.js",
+        "/freelance-income-calc/main.5a209c87842b72da.js",
         "/freelance-income-calc/manifest.webmanifest",
         "/freelance-income-calc/polyfills.ea8b59974edbc8a6.js",
         "/freelance-income-calc/runtime.9ebcf9c31795084b.js",
@@ -52,8 +52,8 @@
     "/freelance-income-calc/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/freelance-income-calc/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/freelance-income-calc/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/freelance-income-calc/index.html": "4eacfcacf1e1c052e6bb330c7ea74638493ae817",
-    "/freelance-income-calc/main.1de5c94b0dde888d.js": "cb0c757e1ebd61423d2ff7429960025b190bce65",
+    "/freelance-income-calc/index.html": "16a0c959480c5ff09426e42677de5894d43197f0",
+    "/freelance-income-calc/main.5a209c87842b72da.js": "5278d495b10415945093490e4846bfd856e29d7e",
     "/freelance-income-calc/manifest.webmanifest": "9b661f09b2a8391d72c045f033f6bab6ffac36a4",
     "/freelance-income-calc/polyfills.ea8b59974edbc8a6.js": "b61300172f52c2d249abc8eeda9152d52ef35860",
     "/freelance-income-calc/runtime.9ebcf9c31795084b.js": "a5abc1284bfef002f62a44e300d97735871e40b6",
